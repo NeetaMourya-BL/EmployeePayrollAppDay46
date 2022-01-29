@@ -1,5 +1,5 @@
 let isUpdate = false;
-let employeePayrollObject = {};
+employeePayrollObject = {};
 window.addEventListener('DOMContentLoaded', () => {
     validName();
     salaryRange();
